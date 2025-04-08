@@ -7,8 +7,8 @@ const HeroSection = () => {
               <div className="inner-row">
                         <div className="hero-section-content">
                                       <div className="top-hero-texts">
-                                                <h1 data-aos="zoom-in-right">Crafting Nutritious Flour for Every Lifestyle.</h1>
-
+                                                {/* <h1 data-aos="zoom-in-right">Crafting Nutritious Flour for Every Lifestyle.</h1> */}
+                                                 <h1 data-aos="zoom-in-right">Uji Halisi, <br /> Afya Bora.</h1>
                                                 <div className="hero-description">
                                                             <p data-aos="zoom-in-left">From expertly milled porridge flours to innovative blends and nutrient-packed add-ons, we’re redefining healthy eating in Kenya. With a focus on quality, safety, and staying ahead of global health trends, we’re here to fuel your lifestyle with every scoop.</p>
 

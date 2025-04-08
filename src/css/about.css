@@ -120,10 +120,6 @@
       align-items: center;
 }
 
-.statement-image{
-       
-}
-
 .statement-image img{
     border-radius: 20px;
     -webkit-border-radius: 20px;
@@ -159,19 +155,89 @@
        font-weight: 550;
 }
 
+.values-section{
+       padding: 100px 0;
+       background: var(--main-color);
+}
+
+.values-intro{
+       width: 990px;
+       margin: auto;
+       text-align: center;
+}
+
+.values-intro h2{
+      font-size: 60px;
+      color: whitesmoke;;
+      margin-bottom: 20px;
+}
+
+.values-intro p{
+       font-size: 19px;
+       line-height: 1.6;
+       color: gainsboro;
+}
+
+.values-content-row{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 40px;
+        margin-top: 60px;
+}
+.value-moja{
+      padding: 40px;
+      border-radius: 20px;
+      -webkit-border-radius: 20px;
+      -moz-border-radius: 20px;
+      -ms-border-radius: 20px;
+      -o-border-radius: 20px;
+      background: rgba(91, 239, 151, 0.15);
+}
+
+.value-moja h3{
+       font-size: 24px;
+       font-weight: 500;
+       margin-bottom: 10px;
+       color: whitesmoke;
+}
+
+.value-moja p{
+      font-size: 17px;
+      color: rgb(215, 215, 215);
+      line-height: 1.6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 @media(max-width: 1090px){
-       .about-hero-texts{
+       .about-hero-texts,
+       .values-intro{
             width: 100%;
        }
 }
 
 @media(max-width: 768px){
-       .about-hero-texts h1{
+       .about-hero-texts h1,
+       .values-intro h2{
              font-size: 45px;
        }
-       .about-hero-images{
+       .about-hero-images,
+       .values-content-row{
              grid-template-columns: 1fr;
        }
        .about-body-wrap{
@@ -187,14 +253,33 @@
        .wrap-texts p{
            font-size: 16px;
        }
+       .statements-row{
+              grid-template-columns: 1fr;
+              gap: 20px;
+       }
+       .statement-image{
+               height: 500px;
+       }
 }
 
 @media(max-width: 530px){
-       .about-hero-texts h1{
+       .about-hero-texts h1,
+       .values-intro h2{
              font-size: 36px;;
        }
        .about-body-wrap h2{
              font-size: 18px;
              padding: 15px 0;
+       }
+       .statement-box h4{
+             font-size: 25px;
+       }
+       .statement-box p span,
+       .values-intro p{
+             font-size: 18px;
+       }
+       .statement-box p,
+       .value-moja p{
+             font-size: 16px;
        }
 }

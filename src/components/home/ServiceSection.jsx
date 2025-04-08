@@ -42,7 +42,7 @@ const ServiceSection = () => {
                                  <img src={flour3} alt="" />
                                  <div className="capability-texts">
                                            <div className="capability-header">
-                                                      <h3>Spices for Food & Tea</h3>
+                                                      <h3>Food & Tea Spices</h3>
                                                       <Link to={"/"}><span><LuMoveUpRight /></span></Link>
                                            </div>
                                            <p>Add flavor and warmth to your meals and beverages.</p>

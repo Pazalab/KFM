@@ -23,7 +23,7 @@ const ServiceSection = () => {
                                   <div className="capability-texts" data-aos="zoom-in">
                                               <div className="capability-header">
                                                       <h3>Flours</h3>
-                                                      <Link to={"/"}><span><LuMoveUpRight /></span></Link>
+                                                      <Link to={"/products"}><span><LuMoveUpRight /></span></Link>
                                               </div>
                                               <p>Discover wholesome nutrition with our wide range of flours, from traditional grains to nutrient-rich and gluten-free options. Explore our varieties and find the perfect choice to elevate your meals.</p>
                                   </div>
@@ -33,7 +33,7 @@ const ServiceSection = () => {
                                 <div className="capability-texts">
                                             <div className="capability-header">
                                                      <h3>Porridge Mixes</h3>
-                                                     <Link to={"/"}><span><LuMoveUpRight /></span></Link>
+                                                     <Link to={"/products"}><span><LuMoveUpRight /></span></Link>
                                             </div>
                                             <p>Perfect for babies and those with special dietary needs.</p>
                                 </div>
@@ -43,7 +43,7 @@ const ServiceSection = () => {
                                  <div className="capability-texts">
                                            <div className="capability-header">
                                                       <h3>Food & Tea Spices</h3>
-                                                      <Link to={"/"}><span><LuMoveUpRight /></span></Link>
+                                                      <Link to={"/products"}><span><LuMoveUpRight /></span></Link>
                                            </div>
                                            <p>Add flavor and warmth to your meals and beverages.</p>
                                  </div>
@@ -53,7 +53,7 @@ const ServiceSection = () => {
                                 <div className="capability-texts">
                                           <div className="capability-header">
                                                    <h3>Natural Supplements</h3>
-                                                   <Link to={"/"}><span><LuMoveUpRight /></span></Link>
+                                                   <Link to={"/products"}><span><LuMoveUpRight /></span></Link>
                                           </div>
                                           <p>Boost your health naturally with our range of nutrient-packed supplements.</p>
                                 </div>

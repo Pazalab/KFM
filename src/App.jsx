@@ -6,6 +6,7 @@ import "aos/dist/aos.css"
 import { useEffect } from 'react'
 import About from './pages/About'
 import Products from './pages/Products'
+import Contact from './pages/Contact'
 
 function App() {
  const location = useLocation();
@@ -24,6 +25,7 @@ function App() {
                <Route path='/' element={<Home />} />
                <Route path='/about-us' element={<About />} />
                <Route path='/products' element={<Products />} />
+               <Route path="/contact-us" element={<Contact />} />
     </Routes>
   )
 }

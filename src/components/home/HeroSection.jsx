@@ -12,7 +12,7 @@ const HeroSection = () => {
                                                 <div className="hero-description">
                                                             <p data-aos="zoom-in-left">From expertly milled porridge flours to innovative blends and nutrient-packed add-ons, we’re redefining healthy eating in Kenya. With a focus on quality, safety, and staying ahead of global health trends, we’re here to fuel your lifestyle with every scoop.</p>
 
-                                                            <Link to={"/"} className="btn" data-aos="zoom-in-up">Explore <span className="coverflow"></span> <span className="icon"><LuMoveRight /></span></Link>
+                                                            <Link to={"/products"} className="btn" data-aos="zoom-in-up">Explore <span className="coverflow"></span> <span className="icon"><LuMoveRight /></span></Link>
                                                 </div>
                                       </div>
                         </div>

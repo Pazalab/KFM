@@ -1,0 +1,207 @@
+.contact-hero{
+    padding: 100px 0;
+}
+.contact-hero-content{
+      width: 900px;
+      margin: auto;
+      text-align: center;
+}
+.contact-hero-content h1{
+      font-size: 60px;;
+}
+.contact-hero-content p{
+    font-size: 20px;
+    line-height: 1.7;
+}
+
+.details-strip{
+      padding: 80px 0;
+      background: white;
+}
+
+.details-strip-row{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        width: 1000px;
+        margin: auto;
+        gap: 30px;
+}
+.detail-moja{
+    text-align: center;
+    padding: 0px 30px;
+}
+.detail-moja:nth-child(2){
+    border-left: 1px solid var(--faded);
+    border-right: 1px solid var(--faded);
+}
+.detail-moja img{
+      width: 40px;
+      height: 40px;
+      filter: invert(26%) sepia(6%) saturate(4957%) hue-rotate(86deg) brightness(90%) contrast(76%);
+}
+.detail-moja h3{
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px 0;
+    text-transform: uppercase;
+}
+.detail-moja p{
+     color: rgb(80, 80, 80);
+     line-height: 1.7;
+     font-size: 18px;
+}
+.contact-body{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    overflow: hidden;
+}
+
+.map-column iframe{
+        border: none;
+        width: 100%;
+        height: 100%;
+        display: block;
+}
+
+
+.contact-form{
+        padding: 100px 80px;
+        background: var(--main-color);
+}
+.contact-form h2{
+        font-size: 50px;
+        text-transform: uppercase;
+        font-weight: 500;
+        color: whitesmoke;
+}
+.contact-form-content p{
+      color: gainsboro;
+      line-height: 1.7;
+      font-size: 18px;
+
+}
+.contact-form-content form{
+    margin-top: 30px
+}
+.form-row{
+    margin-bottom: 20px;
+}
+.form-row label{
+    display: block;
+    margin-bottom: 5px;
+    color: whitesmoke;
+    font-size: 15px;
+}
+.form-row span{
+    color: rgb(246, 69, 69);
+}
+.form-control{
+        height: 60px;
+        padding-left: 10px;
+        width: 100%;
+        background: rgba(178, 211, 178, 0.088);
+        border: none;
+        color: gainsboro;
+        font-size: 16px;
+        border-radius: 6px;
+        -webkit-border-radius: 6px;
+        -moz-border-radius: 6px;
+        -ms-border-radius: 6px;
+        -o-border-radius: 6px;
+}
+
+input::placeholder,
+textarea::placeholder{
+     color: rgba(220, 220, 220, 0.567);
+}
+.form-row textarea{
+      height: 170px;
+      padding: 10px;
+      width: 100%;
+      background: rgba(178, 211, 178, 0.088);
+      border: none;
+      color: gainsboro;
+      font-size: 16px;
+      border-radius: 6px;
+      -webkit-border-radius: 6px;
+      -moz-border-radius: 6px;
+      -ms-border-radius: 6px;
+      -o-border-radius: 6px;
+}
+
+.contact-form button{
+        width: 200px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: white;
+        border: none;
+        border-radius: 60px;
+        -webkit-border-radius: 60px;
+        -moz-border-radius: 60px;
+        -ms-border-radius: 60px;
+        -o-border-radius: 60px;
+        font-size: 15px;
+        cursor: pointer;
+        font-weight: 500;
+        color: var(--main-color);
+        margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+@media(max-width: 1090px){
+      .details-strip-row,
+      .contact-hero-content{
+           width: 90%;
+      }
+      .details-strip-row{
+            grid-template-columns: 1fr 1fr;
+            place-content: center;
+      }
+      .contact-body{
+             grid-template-columns: 1fr;
+      }
+      .map-column iframe{
+               height: 500px;
+      }
+}
+@media(max-width: 768px){
+        .contact-hero-content h1{
+                 font-size: 50px;;
+        }
+       .details-strip-row{
+             grid-template-columns: 1fr;
+       }
+       .detail-moja:nth-child(2){
+              border-left: none;
+              border-right: none;
+              border-top: 1px solid var(--faded);
+              border-bottom: 1px solid var(--faded);
+              padding: 30px;
+       }
+       .contact-form{
+             padding: 80px 60px;
+       }
+       .contact-form h2{
+            font-size: 40px;
+       }
+}
+
+@media(max-width: 530px){
+        .contact-hero-content h1{
+                font-size: 40px;;
+        }
+        .contact-hero-content p{
+              font-size: 18px;
+        }
+        .contact-form{
+               padding: 80px 40px;
+        }
+    }

@@ -24,7 +24,7 @@ const Footer = () => {
                                                </ul>
                                                <div className="social-links">
                                                           <ul>
-                                                                   <li><Link to={"/"}><span><CgFacebook /></span></Link></li>
+                                                                   <li><Link to={"https://web.facebook.com/KirinyagaFlourMills"} target="_blank"><span><CgFacebook /></span></Link></li>
                                                                    <li><Link to={"/"}><span><FaXTwitter /></span></Link></li>
                                                                    <li><Link to={"/"}><span><RiInstagramLine /></span></Link></li>
                                                                    <li><Link to={"/"}><span><AiOutlineTikTok /></span></Link></li>

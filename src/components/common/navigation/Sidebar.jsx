@@ -67,7 +67,7 @@ const Sidebar = () => {
                                     </ul>
                               </div>
                               <div className="sidebar-extra">
-                                          <p><span><MdLocalPhone /></span> Call Now: +254 7123 45678</p>
+                                          <p><span><MdLocalPhone /></span> Call Now: +254 7124 75566</p>
                                           <div className="action-btn">
                                                     <Link to={"/"}><span><MdOutlineWhatsapp /></span> Place an Order</Link>
                                           </div>

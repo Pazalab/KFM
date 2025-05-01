@@ -49,7 +49,7 @@ const AboutBody = () => {
                                                  </div>
 
                                                  <div className="about-body-wrap">
-                                                              <h2 data-aos="zoom-in-right">2020</h2>
+                                                              <h2 data-aos="zoom-in-right">2019</h2>
                                                               <span className="separator">
                                                                         <span className="line" data-aos="fade-right"></span>
                                                                         <span className="icon" data-aos="zoom-in"><FaRegCircleDot /></span>

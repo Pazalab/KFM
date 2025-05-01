@@ -1,8 +1,8 @@
 import { testimonials } from "../../data/testimonials"
 import { RiDoubleQuotesL } from "react-icons/ri";
 import kam from "../../assets/kam.png"
-import kebs from "../../assets/kebs.png"
-import mik from "../../assets/made-in-kenya.png"
+// import kebs from "../../assets/kebs.png"
+// import mik from "../../assets/made-in-kenya.png"
 
 const TestimonialsSection = () => {
   return (
@@ -34,8 +34,8 @@ const TestimonialsSection = () => {
                                              <span data-aos="fade-left"></span>
                                   </div>
                                   <div className="partner-logos" data-aos="zoom-in-up">
-                                             <img src={kebs} alt="" />
-                                             <img src={mik} alt="" />
+                                             {/* <img src={kebs} alt="" />
+                                             <img src={mik} alt="" /> */}
                                              <img src={kam} alt="" />
                                   </div>
                       </div>

@@ -1,47 +1,47 @@
 export const testimonials = [
     {
          id: 0,
-         name: "Anne M.",
-         content: "As a first-time mom, I was overwhelmed trying to find the best porridge flour for my baby. A friend recommended Kirinyaga Flour Mills, and it has been a blessing. Their nutriet-rich blends give me peace of mind knowing my baby is getting the best start to life. Mealtime has become on of our favourite bonding moments."
+         name: "Hildah Princes",
+         content: "Had issues with less milk production as a breastfeeding mom, was advised to visit Kirinyaga Millers. Let me tell you Maina, I am a happy mom. I was given breastfeeding flour which worked wonders. Breast milk has increased in volume, I am able to pump and breastfeed at the same time. Thank you so much Kirinyaga Millers."
     },
     {
         id: 1,
-        name: "Peter K.",
-        content: "When my doctor suggested I switch to healthier flour options due to my dietary needs, I turned to Kirinyaga Flour Mills. Their finger millet flour has been an absolute game-changer. It's not just healthier—it’s delicious, versatile, and has helped me feel more energized and in control of my health."
+        name: "Ruth Ongoro",
+        content: "Simply the best it's 9 years down the line and I'm still a strong client, your flours are the best, my kids love it so much, keep up the good work."
     },
     {
         id: 2,
-        content: "Kirinyaga Flour Mills has been a staple in our household for years, but when I tried their banana flour, it was a revelation. It's the perfect addition to our family meals, packed with nutrition and flavor. Now, I can prepare meals I feel proud to serve my family",
-        name: "Grace W."
+        content: "It's a better and beautiful place to stay.",
+        name: "Elias Wachira"
     },
     {
         id: 3,
-        name: "Josephine O.",
-        content: "Being gluten-intolerant has made meal preparation challenging, but Kirinyaga Flour Mills made it so much easier. Their cassava and rice flours are a perfect fit for my diet, and I can now enjoy my favorite dishes without worry. It's been a total game-changer for me."
+        name: "Arch Treks Safaris.",
+        content: "Nice place to buy cereals and flour...I really liked their honey."
     },
     {
         id: 4,
-        name: "Mary N.",
-        content: "My baby had dietary sensitivities, and I was so stressed about finding the right porridge. A friend recommended Kirinyaga's porridge mixes, and it's been such a relief! Their products are gentle on my baby's stomach and packed with the nutrients needed for growth. I'm so grateful for the difference it has made it our lives."
+        name: "Anthony Thiongo",
+        content: "They have been an awesome partner in our triplets' journey."
     },
     {
         id: 5,
-        name: "Daniel T.",
-        content: "I was struggling with low energy, and my nutritionist recommended Kirinyaga's amaranth and soya flour. I incorporated them into my meals, and I can't believe the difference. My energy levels are up, I feel healthier, and I know I'm making better choices for my future."
+        name: "Mathew Francis",
+        content: "I appreciated your services and products."
     },
     {
         id: 6,
-        name: "Lucy M.",
-        content: "The variety of flours from Kirinyaga is outstanding. I've started using their oats and sorghum flour for baking, and it's been amazing. The texture and taste are fantastic, and I love knowing that my baked goods are healtheir for my family. It's a win-win!"
+        name: "Wanjiku Minjire",
+        content: "Very professional, nothing/nobody wasted my time there."
     },
-    {
-        id: 7,
-        name: "Paul R.",
-        content: "I've always been skeptical about natural supplements, but trying Kirinyaga's moringa leaf powder changed my perspective. Adding it to my morning smoothies has been incredible—I feel more energized and healthier overall. It’s now a must-have in my daily routine!"
-    },
-    {
-        id: 8,
-        name: "Faith L.",
-        content: "When my child's pediatrician suggested a nutriet-rich porridge mix, I decided to try Kirinyaga Flour Mills. Their products have been fantastic, providing my baby with essential nutrients while being easy to prepare. It's reassuring to see my baby thriving and enjoying every meal."
-    }
+    // {
+    //     id: 7,
+    //     name: "Paul R.",
+    //     content: "I've always been skeptical about natural supplements, but trying Kirinyaga's moringa leaf powder changed my perspective. Adding it to my morning smoothies has been incredible—I feel more energized and healthier overall. It’s now a must-have in my daily routine!"
+    // },
+    // {
+    //     id: 8,
+    //     name: "Faith L.",
+    //     content: "When my child's pediatrician suggested a nutriet-rich porridge mix, I decided to try Kirinyaga Flour Mills. Their products have been fantastic, providing my baby with essential nutrients while being easy to prepare. It's reassuring to see my baby thriving and enjoying every meal."
+    // }
 ]

@@ -26,7 +26,7 @@ const HeroSection = () => {
                                   <div className="hero-image-texts" data-aos="zoom-in">
                                             <h2>At Kirinyaga Flour Mills, we’re all about turning grains into gains: Milling Nutrition to Perfection.</h2>
 
-                                            <Link to={"/"}>Learn More about Our Process <span><LuMoveRight /></span></Link>
+                                            {/* <Link to={"/"}>Learn More about Our Process <span><LuMoveRight /></span></Link> */}
                                   </div>
                         </div>
               </div>

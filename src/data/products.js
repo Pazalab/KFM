@@ -160,5 +160,29 @@ export const products = [
         name: "Ceylon Cinnamon",
         image: "/products/cinnamon-ceylon.jpg",
         category: "Food & Tea Spices",
+    },
+    {
+        id: 27,
+        name: "Honey",
+        image: "/products/honey.jpg",
+        category: "Natural Supplements",
+    },
+    {
+        id: 28,
+        name: "Viesta Bio1 Nutraceutical Beverage",
+        image: "/products/bio-beverage.jpg",
+        category: "Natural Supplements"
+    },
+    {
+        id: 29,
+        name: "Viesta Bio2 Nutraceutical Beverage",
+        image: "/products/bio2.jpg",
+        category: "Natural Supplements"
+    },
+    {
+        id: 30,
+        name: "Viesta Bio1 Sterol",
+        image: "/products/bio1.jpg",
+        category: "Natural Supplements"
     }
 ]

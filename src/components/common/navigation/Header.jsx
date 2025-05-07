@@ -17,7 +17,7 @@ const Header = () => {
                                        </Link>
                                        <nav>
                                                <div className="top-nav">
-                                                         <p><span><MdLocalPhone /></span> Call Now: +254 7124 75566</p>
+                                                         <p><span><MdLocalPhone /></span> Call Now: +254 0712-475-566</p>
                                                </div>
                                                 <div className="bottom-nav">
                                                            <ul>
@@ -28,7 +28,7 @@ const Header = () => {
                                                                      <li><NavLink to={"/contact-us"}>Contact Us</NavLink></li>
                                                            </ul>
                                                            <div className="action-btn">
-                                                                     <Link to={"https://wa.me/254712475566"} target="_blank"><span><MdOutlineWhatsapp /></span> Place an Order</Link>
+                                                                     <Link to={"https://wa.me/254707623670"} target="_blank"><span><MdOutlineWhatsapp /></span> Place an Order</Link>
 
                                                                      <div className="menu-btn" onClick={() => setSidebarStatus(true)}>
                                                                                <span><HiOutlineMenu /></span>

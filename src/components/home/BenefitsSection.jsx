@@ -6,8 +6,8 @@ const BenefitsSection = () => {
               <div className="inner-row">
                         <div className="benefits-content">
                                      <div className="benefits-intro">
-                                                <h2 data-aos="fade-right">What Makes Kirinyaga Flour Mills Stand Out?</h2>
-                                                <p data-aos="fade-left">We don't just make premium flour—we build trust, deliver quality, and create lasting connections with our customers. For decades, we've been a cornerstone of Kenyan households, providing products that generations rely on. Here's why we're truly in a league of our own:</p>
+                                                <h2 data-aos="fade-right">What Makes Kirinyaga Flour Mills Stand Out</h2>
+                                                <p data-aos="fade-left">We don't just make premium flour—we build trust, deliver quality products, and create lasting connections with our customers. For decades, we've been a cornerstone of Kenyan households, providing products that generations rely on. Here's why we're truly in a league of our own:</p>
                                      </div>
                         </div>
               </div>
@@ -20,7 +20,7 @@ const BenefitsSection = () => {
                                  </div>
                                  <div className="content-box" data-aos="zoom-in-right">
                                             <h3>A Tradition of Generational Service</h3>
-                                            <p>We're more than a flour mill; we're a part of family traditions. For generations, Kenyan households have relied on our products, creating a bond that spans decades. Today, we proudly serve third-generation customers, continuing to provide the same trusted quality their families have counted on for years.</p>
+                                            <p>We're more than a flour mill; we're a part of family traditions. For generations, Kenyan households have relied on our products, creating a bond that spans decades. Today, we gladly continue to serve third-generation customers, continuing to provide the same trusted quality their families have counted on for years.</p>
                                  </div>
                          </div>
                          <div className="content-column" data-aos="zoom-in">
@@ -33,7 +33,7 @@ const BenefitsSection = () => {
                                    </div>
                                    <div className="content-box" data-aos="zoom-in-left">
                                              <h3>A Reputation Built on Excellence</h3>
-                                             <p>From sourcing the finest grains to ensuring every batch of flour meets rigorous quality checks, our dedication to delivering exceptional products never wavers. In a competitive industry, we’ve carved out our place as a trusted leader by consistently exceeding expectations.</p>
+                                             <p>From sourcing the finest grains to ensuring every batch of flour meets rigorous quality standard checks, our dedication to delivering exceptional products never wavers. In a competitive industry, we’ve carved out our place as a trusted leader by consistently exceeding expectations.</p>
                                    </div>
                          </div>
               </div>

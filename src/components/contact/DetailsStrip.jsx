@@ -14,8 +14,8 @@ const DetailsStrip = () => {
                                 <div className="detail-moja" data-aos="zoom-in">
                                             <img src={telephone} alt="" />
                                             <h3>Phone</h3>
-                                            <p>+254 7123 45678</p>
-                                            <p>+254 7028 9804</p>
+                                            <p>+254 712-475-566</p>
+                                            <p>+254 707-623-670</p>
                                 </div>
                                 <div className="detail-moja" data-aos="zoom-in">
                                         <img src={email} alt="" />

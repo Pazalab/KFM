@@ -13,7 +13,7 @@ const ServiceSection = () => {
                                  <div className="service-intro">
                                             <h3 className="intro" data-aos="fade-down">Our Capabilities</h3>
                                             <h2 data-aos="zoom-in-up">We Make, Deliver, and Supply Kenyan Homes with Quality Flour.</h2>
-                                            <p data-aos="zoom-in-up">Our flour products are more than just ingredients—they’re the foundation of healthy, delicious meals for every Kenyan home. From versatile everyday staples to innovative blends enriched with nutrients, our range is crafted to support your health goals and lifestyle. </p>
+                                            <p data-aos="zoom-in-up">Our flour products are more than just ingredients—they’re the foundation of healthy and delicious meals for every Kenyan home. From versatile everyday staples to innovative blends enriched with nutrients, our range is crafted to support your health goals and lifestyle. </p>
                                  </div>
                        </div>
               </div>

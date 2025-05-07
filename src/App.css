@@ -8,7 +8,7 @@
 :root{
     --regular-font: "Kumbh Sans", sans-serif;
     --bold-font: "Reddit Sans", sans-serif;
-    --main-color: rgb(39,86,55);
+    --main-color: rgba(45,83,46,255);
     --faded: rgba(45, 103, 56, 0.066);
 }
 

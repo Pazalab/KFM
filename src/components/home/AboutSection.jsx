@@ -6,7 +6,7 @@ const AboutSection = () => {
               <div className="inner-row">
                         <div className="about-section-content">
                                    <h3 data-aos="fade-down">About Us</h3>
-                                   <h2 data-aos="fade-up">Your Trusted Partner in Flour Excellence for Over 20 Years.</h2>
+                                   <h2 data-aos="fade-up">Your Trusted Partner in Flour Excellence for Over 20 Years</h2>
                                    <div className="paragraph-split">
                                               <p data-aos="zoom-in-up">We are a flour milling company in Kenya, trusted by communities and homes nationwide. Our products are a reflection of our deep connection to Kenyan traditions, providing reliable, high-quality flour that has supported generations. From urban families to rural households, we are proud to be part of the shared journey of nourishment and growth.</p>
                                               <div className="paragraph-box">
